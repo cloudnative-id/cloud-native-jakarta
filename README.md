@@ -1,1 +1,1 @@
-# cloudnative-jakarta
+# cloud-native-jakarta
