@@ -7,5 +7,5 @@
 
 ## Talks
 
-- Resi Respati [Microfrontends: Extending Microservices to the Frontend]()
+- Resi Respati [Microfrontends: Extending Microservices to the Frontend](https://www.youtube.com/watch?v=FGQVGSJPjH0)
 - Zulfa Achsani [Distributed Tracing with Jaeger]()

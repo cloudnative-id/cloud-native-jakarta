@@ -7,5 +7,5 @@
 
 ## Talks
 
-- Armand Caesario
-- Prakash Divy
+- Armand Caesario [Introduction to Microservice](https://www.youtube.com/watch?v=D6WJcjVPDbI)
+- Prakash Divy [Introduction to gRPC](https://www.youtube.com/watch?v=FeWwev0OBFA)
