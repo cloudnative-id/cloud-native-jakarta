@@ -7,5 +7,5 @@
 
 ## Talks
 
-- Welly Tambunan [Introduction to Messaging Pattern in Microservice]()
-- Imre Nagi [Introduction to NATS Messaging System]()
+- Welly Tambunan [Introduction to Messaging Pattern in Microservice](https://www.youtube.com/watch?v=fszTBvZEZ_4)
+- Imre Nagi [Introduction to NATS Messaging System](https://www.youtube.com/watch?v=w2J2S6v3K50)
