@@ -1,9 +1,9 @@
 # Episode 004 : Going deeper to Microservice Pattern and Philoshopy
 
-- Hosted by
-- Speakers: 
+- Hosted by [@prakashdivyy](http://twitter.com/prakashdivyy) [@imrenagi](http://twitter.com/imrenagi) [@armandcaesar](http://twitter.com/armandcaesar)
+- Speakers: Martono (Kumparan), Kennard (OVO), Donnie (AWS)
 - Meetup date: 2019-08-29
-- Venue: Lippo Kuningan
+- Venue: Lippo Kuningan (OVO)
 
 ## Talks
 
